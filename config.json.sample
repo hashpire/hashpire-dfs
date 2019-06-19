@@ -1,0 +1,6 @@
+{
+    "email": "test@gmail.com",
+    "apiKey": "cloudflare-global-api-key",
+    "zoneId": "zone-id",
+    "domain": "hashpire.com"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "hashpire-dfs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hashpire/hashpire-dfs.git"
+  },
+  "author": "anakornk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hashpire/hashpire-dfs/issues"
+  },
+  "homepage": "https://github.com/hashpire/hashpire-dfs#readme",
+  "dependencies": {
+    "cloudflare-ipfs-dnslink": "^1.0.0"
+  }
+}
